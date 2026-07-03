@@ -1,4 +1,4 @@
-package stringWork.downloadFile;
+package stringWork;
 
 import java.util.List;
 import java.util.Locale;
