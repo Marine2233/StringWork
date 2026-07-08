@@ -58,6 +58,13 @@ public class StringWork {
         System.out.println(stringBuilder2.capacity());
         //Разница в фактически занятой памяти билдера и обще-выделенной.
 
+        sb.
+                append("\nЗаголовок\n").
+                append("=".repeat(30)).
+                append("\nОтчет:\n").
+                append("=".repeat(30));
+        System.out.println(sb);
+
 
 /**
  Задача 9.
