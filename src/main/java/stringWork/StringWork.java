@@ -2,7 +2,7 @@ package stringWork;
 
 import java.util.List;
 import java.util.Locale;
-
+//добавить проверку на -1(выход за пределы)
 public class  StringWork {
     public static void main(String[] args) {
         String image = "home.Work .png";
