@@ -56,6 +56,7 @@ public class StringWork {
         System.out.println(stringBuilder2);
         System.out.println(stringBuilder2.length());
         System.out.println(stringBuilder2.capacity());
+        //Разница в фактически занятой памяти билдера и обще-выделенной.
 
 
 /**
